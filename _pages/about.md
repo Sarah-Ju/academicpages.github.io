@@ -11,12 +11,11 @@ redirect_from:
 
 Welcome !
 ======
-Welcome to my personnal research page. You will find : publications, code, tutorials, miscellaneous information about my teaching experience...
+Welcome to my personnal research page.
+
+You will find : publications, code, tutorials, miscellaneous information about my teaching experience...
 
 
-Site-wide configuration
+! Works!
 ------
-
-
-
-**Create content & metadata**
+This page is under construction. You'll forgive the messiness :-)
