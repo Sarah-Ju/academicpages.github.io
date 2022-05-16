@@ -83,8 +83,8 @@ author:
   name             : "Sarah Juricic"
   avatar           : "photo_profil.jpg"
   bio              : "Research engineer"
-  location         : "Champs-sur-Marne, France"
-  employer         : "CSTB"
+  location         : 
+  employer         : "CSTB @ Champs-sur-Marne, France"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Kx4nS-kAAAAJ&hl=fr"
   email            :
