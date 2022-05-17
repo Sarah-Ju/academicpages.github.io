@@ -15,6 +15,14 @@ Welcome to my personnal research page.
 
 You will find : publications, code, tutorials, miscellaneous information about my teaching experience...
 
+Current interests
+======
+/!\under construction
+* Model calibration at wall, building and disctrict scale
+* identifiability & physical interpretability
+* design of experiment, pseudo-random signals
+* building energy data analysis under occupancy, poorly informative data
+
 
 ! Works!
 ------
