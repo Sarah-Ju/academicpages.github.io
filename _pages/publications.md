@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="{{author.researchgate}}">my Researchgate profile</a>.</u>
+You can also find my articles on <u><a href="https://www.researchgate.net/profile/Sarah-Juricic">my Researchgate profile</a>.</u>
 
 {% include base_path %}
 
