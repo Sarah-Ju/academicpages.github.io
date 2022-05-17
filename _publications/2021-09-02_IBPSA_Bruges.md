@@ -7,7 +7,6 @@ date: 2021-09-02
 venue: '17th Building Simulation Conference'
 ---
 
-
 **/!\ under construction /!\**
 
 This paper was presented by Simon Rouchier at Building Simulation 2021 in Bruges.
