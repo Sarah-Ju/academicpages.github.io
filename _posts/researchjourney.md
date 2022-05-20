@@ -1,7 +1,7 @@
 ---
 title: 'A research journey'
 date: 2022-05-01
-permalink: /posts/2022/01/researchjourney/
+permalink: /posts/researchjourney/
 tags:
   - research
   - keyword
