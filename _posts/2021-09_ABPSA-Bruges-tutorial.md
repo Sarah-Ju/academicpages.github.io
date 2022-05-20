@@ -1,6 +1,6 @@
 ---
 title: 'Tutorial: Bayesian approach to accounting for system efficiency'
-date: 2013-08-14
+date: 2021-09-02
 permalink: /posts/2013/08/tutorial_IBPSA/
 tags:
   - Bayesian
