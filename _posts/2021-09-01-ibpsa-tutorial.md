@@ -1,7 +1,7 @@
 ---
 title: 'Tutorial: Bayesian approach to accounting for system efficiency'
 date: 2021-09-02
-permalink: /posts/2021/09/tutorial_IBPSA/
+permalink: /posts/2021/09/ibpsa-tutorial/
 tags:
   - Bayesian
   - heating system efficiency
