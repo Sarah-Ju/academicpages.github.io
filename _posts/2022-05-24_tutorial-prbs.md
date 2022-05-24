@@ -1,7 +1,7 @@
 ---
 title: 'Tutorial: Physics-informed pseudo-random binary signal generation with python'
 date: 2022-05-24
-permalink: /posts/2022/05/PRBS-tutorial/
+permalink: /posts/2022/05/prbs-tutorial/
 tags:
   - PRBS
   - python
