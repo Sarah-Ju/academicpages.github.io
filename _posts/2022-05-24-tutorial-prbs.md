@@ -12,7 +12,7 @@ This script was used to automatically generate 24- and 48-hour binary signals fo
 
 From timestep, char_time and duration, this code builds a custom binary signal. The advantage with these 3 variables is to deal with physcially relatable values.
 
- ```python
+```python
 from scipy.signal import max_len_seq
 
 # binary signal time-step
@@ -30,9 +30,9 @@ nbits = max(taps)
 
 # Nota : the second element returned by max_len_seq is not useful for our purpose
 signal, _ = max_len_seq(nbits=nbits,
-                            taps=taps,
-                            length=duration)
-   ```
+                        taps=taps,
+                        length=duration)
+```
    
 Do you know a more elegant method to generate physics-informed binary signals ? Let me know !
 
