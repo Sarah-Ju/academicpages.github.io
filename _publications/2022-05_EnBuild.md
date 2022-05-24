@@ -26,7 +26,7 @@ conditions, the method shows a better robustness from 30- to 36-hour measurement
 further investigate other building types in variable weather conditions to validate the proposed method.
 
 
-Check out *here* how to generate these binary files in python !
+Check out [*here*](https://sarah-ju.github.io/posts/2022/05/prbs-tutorial/) how to generate these binary files in python !
 
 Download paper *here*.
 
