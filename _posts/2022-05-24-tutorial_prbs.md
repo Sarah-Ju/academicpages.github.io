@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'A tutorial for PRBS generation'
 tags: 
 - algorithms
