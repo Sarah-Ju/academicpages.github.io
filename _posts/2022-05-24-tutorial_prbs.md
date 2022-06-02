@@ -1,5 +1,3 @@
-<h1>Table of Contents<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Signal-generation-step-by-step" data-toc-modified-id="Signal-generation-step-by-step-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Signal generation step-by-step</a></span></li><li><span><a href="#A-multitude-of-signal-shapes" data-toc-modified-id="A-multitude-of-signal-shapes-2"><span class="toc-item-num">2&nbsp;&nbsp;</span>A multitude of signal shapes</a></span></li></ul></div>
 ---
 layout: post
 title: 'A tutorial for PRBS generation'
